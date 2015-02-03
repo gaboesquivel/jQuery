@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[\\$.holdReady(${1:true/false});]]></content>
-	<tabTrigger>holdready</tabTrigger>
+	<tabTrigger>j_holdready</tabTrigger>
 	<description>$.holdReady()</description>
 	<scope>source.js</scope>
 </snippet>

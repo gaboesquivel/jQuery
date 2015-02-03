@@ -15,7 +15,7 @@ ${9:.always(function() {
 	console.log("complete");
 \})};
 $0]]></content>
-	<tabTrigger>ajaxsetup</tabTrigger>
+	<tabTrigger>j_ajaxsetup</tabTrigger>
 	<description>$.ajaxSetup()</description>
 	<scope>source.js</scope>
 </snippet>

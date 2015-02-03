@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[\$.browser.${1:webkit/opera/msie/mozilla}$0]]></content>
-	<tabTrigger>browser</tabTrigger>
+	<tabTrigger>j_browser</tabTrigger>
 	<description>$.browser()</description>
 	<scope>source.js</scope>
 </snippet>
